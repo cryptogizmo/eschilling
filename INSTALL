@@ -1,0 +1,9 @@
+Building Schillingcoin
+
+See doc/readme-qt.rst for instructions on building Schillingcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Schillingcoin.
+
+See doc/build-*.txt for instructions on building schillingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Schillingcoin.
